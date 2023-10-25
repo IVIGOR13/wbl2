@@ -1,0 +1,8 @@
+manager     5000
+clerk       4000
+employee    6000
+peon        4500
+aaaaaaaa    34876
+director    9000
+guard       3000
+clerk       4000
